@@ -1,6 +1,3 @@
-The goal of this training is to translate thinking about arcmap into thinking about python and arcpy. I want there to be examples but the fact of the matter is most of those are easy to find online. It will be a perfect thing to host on my personally git hub to get people thinking about using the resources.
-
-Try to keep it to 45 minutes focus on direct comparisons between arcmap and arcpy
 
 # Outline
 
@@ -14,35 +11,28 @@ Try to keep it to 45 minutes focus on direct comparisons between arcmap and arcp
 
   1. environmental variables
 
-    1. examples
 
   2. iterating
 
-    1. examples
 
   3. reproducibility
 
-    1. examples
 
 6. What it is bad at
 
   1. search cursor
 
-    1. examples
 
   2. very specific formatting
 
-    1. examples
 
   3. it will make easy things in arcmap hard, at first
 
-    1. examples ( temp objects )
 
 7. Flowcharts activity
 
-  1. have them plan out a geoprocessing process
 
-8. Online resources
+8. Last little advice
 
 ## Python
 
